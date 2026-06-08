@@ -23,7 +23,11 @@
 ---
 
 ### 📝 **Notes & Installation**
-* A clean flash is highly recommended if migrating from an alternate device tree baseline.
+* A clean flash is highly recommended if migrating from another ROM.
+
+### 🤝🏻 **Help me continue my projects?**
+* Github Sponsor: [**Sponsor**](https://github.com/sponsors/daizeuz-dred)
+* Sociabuzz: [**Sponsor**](https://sociabuzz.com/daizeuzdred/tribe)
 
 ### 🤝 **Credits & Thanks**
 * Huge thanks to `@HELLINFIX` for the foundational source collaboration and device tree support.

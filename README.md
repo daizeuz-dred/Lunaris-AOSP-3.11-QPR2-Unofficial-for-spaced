@@ -25,12 +25,13 @@
 
 ### 📝 **Notes & Installation**
 * A clean flash is highly recommended if migrating from another ROM.
+
+### 🤝 **Credits & Thanks**
+* Huge thanks to `@HELLINFIX` for the foundational source collaboration and device tree support.
+* Thanks to `@ViaanLarryROMS` for the assistance in adding Sony Dolby.
+* Thanks to @hxfuxyy for teaching me how to implement OTA updates.
 ---
 ### 🤝🏻 **Help me continue my projects?**
 * Github Sponsor: [**Sponsor**](https://github.com/sponsors/daizeuz-dred)
 * Sociabuzz: [**Sponsor**](https://sociabuzz.com/daizeuzdred/tribe)
 ---
-### 🤝 **Credits & Thanks**
-* Huge thanks to `@HELLINFIX` for the foundational source collaboration and device tree support.
-* Thanks to `@ViaanLarryROMS` for the assistance in adding Sony Dolby.
-* Thanks to @hxfuxyy for teaching me how to implement OTA updates.

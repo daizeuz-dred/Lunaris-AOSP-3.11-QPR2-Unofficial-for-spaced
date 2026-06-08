@@ -26,7 +26,7 @@
 
 ### 📝 **Notes & Installation**
 * A clean flash is highly recommended if migrating from another ROM.
-* If your facing minimal screen flickering, you can fix it by yourself by flashing this [**module**](https://t.me/DEEZProjects/23)
+* If your facing minimal screen flickering, you can fix it by yourself by flashing this [**module**](https://t.me/DEEZProjects/23).
 
 ### 🤝 **Credits & Thanks**
 * Huge thanks to `@HELLINFIX` for the foundational source collaboration and device tree support.

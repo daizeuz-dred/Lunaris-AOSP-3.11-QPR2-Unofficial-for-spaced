@@ -5,8 +5,7 @@
 ---
 ### **DOWNLOAD:** [**HERE**](https://sourceforge.net/projects/lunaris-aosp-3-11-qpr2/files/Lunaris-AOSP-spaced-Community-3.11-GMS-2026060803.zip/download)
 ---
-### **Note:** If your facing minimal screen flickering, you can fix it by yourself by flashing this [**module*](https://t.me/DEEZProjects/23)
----
+
 ### 🚀 **Changelog**
 
 #### 🛠 **Device Tree & System Fixes**
@@ -27,6 +26,7 @@
 
 ### 📝 **Notes & Installation**
 * A clean flash is highly recommended if migrating from another ROM.
+* If your facing minimal screen flickering, you can fix it by yourself by flashing this [**module**](https://t.me/DEEZProjects/23)
 
 ### 🤝 **Credits & Thanks**
 * Huge thanks to `@HELLINFIX` for the foundational source collaboration and device tree support.

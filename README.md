@@ -24,6 +24,54 @@
 
 ---
 
+# ══════════════════════════════════════════════
+#     LUNARIS 3.11 | QPR2 — OTA UPDATE SENT!
+#                 2026-06-24
+# ══════════════════════════════════════════════
+
+### 🎨 Animations & System UI Polish
+* **Backported Android 17 launcher blur** app launch animation.
+* **Backported improved Quick Settings tile** bounce animation.
+* **Improved tile click animation** by leveraging the existing tile spring animation.
+* **Improved brightness slider** animation and haptic feedback.
+* **Added tile animation and haptic feedback** on ringer tile mode switch.
+
+---
+
+### ⚡️ Quick Settings & Status Bar
+* **Backported small tile** detailed footer view.
+* **Backported Android 17 style** flashlight tile.
+* **Added dedicated Auto-brightness** tile.
+* **Fixed missing dynamic bar** torch strength slider.
+* **Reduced extra padding** when the Wi-Fi standard icon is active.
+* **Fixed media Quick Settings** regressions.
+
+---
+
+### 🔒 Lockscreen & Customization
+* **Added model-based automatic** depth wallpaper extractor.
+* **Allowed customizing the horizontal position** of the custom clock.
+* **Improved several custom clock** layouts.
+* **Fixed tag corruption** when applying custom clock colors.
+
+---
+
+### 🚀 Recents & Performance
+* **Fixed text clipping and close icon** in the dynamic bar recents card.
+* **Backported ART** and system boot optimizations.
+
+---
+
+### 🔧 Fixes & Stability
+* **Fixed SystemUI crash loop on boot** caused by `SharedConnectivity` Chimera service.
+* **Fixed MTK fuel gauge daemon** failing to open file descriptors on boot.
+* **Fixed SELinux denials** blocking `system_suspend` battery wakelock accounting.
+* **Fixed SELinux denials** blocking `CachedAppOptimizer` oplus vendor proc access.
+* **Disabled unused `sdcardfs` kernel driver** (conflicts with FUSE scoped storage).
+* **Removed bogus WiFi firmware probe** causing `dmesg` noise on every WiFi toggle.
+
+══════════════════════════════════════════════
+
 ### 📝 **Notes & Installation**
 * A clean flash is highly recommended if migrating from another ROM.
 * If your facing minimal screen flickering, you can fix it by yourself by flashing this [**module**](https://t.me/DEEZProjects/23).
